@@ -1,7 +1,7 @@
 #ifndef _SORT_H_
 #define _SORT_H_
-#include studio.h
-#include stddef.h
+#include <studio.h>
+#include <stddef.h>
 
 void print_list(const listint_t *list);
 void print_array(const int *array, size_t size);
